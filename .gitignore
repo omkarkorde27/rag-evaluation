@@ -1,5 +1,9 @@
 .env
+
 system_prompt.txt
-Evaluation Sets results
-Evaluation Sets 
-System Prompt
+
+Evaluation Sets results/
+Evaluation Sets/
+System Prompt/
+
+.DS_Store
